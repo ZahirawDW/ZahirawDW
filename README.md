@@ -1,30 +1,32 @@
 ## Hi, I'm Zahira 👋
 
-<!--
-**ZahirawDW/ZahirawDW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-End Developer | Freelance & Internship Ready
 
-Here are some ideas to get you started:
+👩‍💻 About Me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-💫 About Me:
+I'm a Front-End developer passionate about building clean, responsive, and user-friendly websites.
+I focus on transforming designs into functional web experiences with attention to detail, responsiveness, and clean code.
+🎯 Freelance-oriented, open to job and internship opportunities
+🌱 Currently learning React and improving my Front-End workflow
+💡 I enjoy working on modern, simple, and practical web interfaces
 
-💻 I’m currently working on Front-End projects with HTML, CSS & Vanilla JS, I have basic knowledge of PHP & MySQL
-🤝 I’m looking to collaborate on Creative web projects
-👩‍💻 I’m working for help with JavaScript & APIs
-🌱 I’m currently learning Advanced JS & Git/GitHub
-💭 Ask me about Front-End development & coding tips
-⚡️ Fun fact: I love mixing creativity with coding 🚀
+🛠️ Tech Stack
+**Front-End:** 🎨 HTML5, 🎯 CSS3, ⚡ JavaScript, 🎪 Bootstrap  
+**Currently Learning:** ⚛️ React  
+**Back-End (Basics):** 🐘 PHP, 🗄️ MySQL  
+**Tools:** 🐙 Git, 💻 GitHub
 
-🌐 Socials:
-[LinkedIn](www.linkedin.com/in/zahira-el-mahjour)
+💼 What I Can Help You With
+Responsive websites (mobile-first)
+Converting UI designs into clean code
+Landing pages & small business websites
+Improving layout, structure, and usability
 
-💻 Tech Stack:
-HTML5 CSS3 JavaScript PHP jQuery Bootstrap Apache MySQL GitHub Git
+📌 Featured Projects
+- **[TerraVita](https://terravita.netlify.app)** – Travel & seasonal destination guide website  
+- **[MindNest Bookstore](https://mindnest-bookstore.netlify.app/)** – JavaScript-powered bookstore with interactive UI features  
+- **[Floriva](https://floriva-shop.netlify.app)** – Flower shop website with cart & wishlist features
+  
+🔗 Let’s Connect
+📧 Email: [zahira elmahjour](zahiraelmahjour06@gmail.com) 
+💼 LinkedIn: [Zahira El-Mahjour](https://www.linkedin.com/in/zahira-el-mahjour)
