@@ -11,15 +11,16 @@ I focus on transforming designs into functional web experiences with attention t
 💡 I enjoy working on modern, simple, and practical web interfaces
 
 🛠️ Tech Stack
+
 **Front-End:** 🎨 HTML5, 🎯 CSS3, ⚡ JavaScript, 🎪 Bootstrap  
 **Currently Learning:** ⚛️ React  
 **Back-End (Basics):** 🐘 PHP, 🗄️ MySQL  
 **Tools:** 🐙 Git, 💻 GitHub
 
 💼 What I Can Help You With
-Responsive websites (mobile-first)
-Converting UI designs into clean code
-Landing pages & small business websites
+Responsive websites (mobile-first), 
+Converting UI designs into clean code, 
+Landing pages & small business websites, 
 Improving layout, structure, and usability
 
 📌 Featured Projects
