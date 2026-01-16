@@ -23,6 +23,9 @@ Converting UI designs into clean code,
 Landing pages & small business websites, 
 Improving layout, structure, and usability
 
+## 🌐 Portfolio
+Check out my portfolio here: **[zahira-elmahjour.netlify.app](https://zahira-elmahjour.netlify.app)**
+
 📌 Featured Projects
 - **[TerraVita](https://terravita.netlify.app)** – Travel & seasonal destination guide website  
 - **[MindNest Bookstore](https://mindnest-bookstore.netlify.app/)** – JavaScript-powered bookstore with interactive UI features  
