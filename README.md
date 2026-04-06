@@ -39,6 +39,7 @@ self-imposed one-month deadlines to simulate real work conditions.
 | [Floriva ↗](https://floriva-shop.netlify.app) | E-commerce flower shop with cart, wishlist & product filtering — zero frameworks | HTML, CSS, JS, Bootstrap |
 | [MindNest ↗](https://mindnest-bookstore.netlify.app) | Bookstore with JSON-driven dynamic content & instant UI updates | HTML, CSS, JS, Bootstrap |
 | [TerraVita ↗](https://terravita.netlify.app) | Seasonal travel platform with mobile-first design | HTML, CSS, JS |
+| Gestion Stagiaires *(private)* | Full-stack internship management platform built at OCP S.A. — Laravel, MySQL, Bootstrap | Laravel · MySQL · Bootstrap |
 
 ---
 
