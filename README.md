@@ -46,5 +46,5 @@ self-imposed one-month deadlines to simulate real work conditions.
 ### 🔗 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-zahira--elmahjour.netlify.app-blue?style=flat&logo=netlify)](https://zahira-elmahjour.netlify.app)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zahira_El--Mahjour-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/zahira-elmahjour)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zahira_El--Mahjour-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/zahira-el-mahjour)  
 [![Email](https://img.shields.io/badge/Email-zahiraelmahjour06@gmail.com-D14836?style=flat&logo=gmail)](mailto:zahiraelmahjour06@gmail.com)
